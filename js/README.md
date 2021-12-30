@@ -8,3 +8,4 @@
 ### Videos 
 - [What is NPM, and why do we need it? | Tutorial for beginners](https://www.youtube.com/watch?v=P3aKRdUyr0s)
 - [Yarn Package Manager Crash Course](https://www.youtube.com/watch?v=g9_6KmiBISk)
+- [Module Bundlers Explained... Webpack](https://www.youtube.com/watch?v=5IG4UmULyoA)
