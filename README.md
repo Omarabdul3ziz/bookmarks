@@ -1,1 +1,2 @@
 - [js](./js)
+- [svelte](./svelte)
